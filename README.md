@@ -64,6 +64,7 @@
 - Power the circuit (via USB or battery).
 
 ### 2. Code Setup
-- Clone this repo:
+- Clone this repository:
   ```bash
   git clone https://github.com/Varadargit/DRIVE-SAFE-real-time-accident-rash-driving-detection.git
+  cd DRIVE-SAFE-real-time-accident-rash-driving-detection
