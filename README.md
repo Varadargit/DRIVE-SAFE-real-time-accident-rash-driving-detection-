@@ -66,4 +66,4 @@
 ### 2. Code Setup
 - Clone this repo:
   ```bash
-  git clone https://github.com/yourusername/DRIVE-SAFE-real-time-accident-rash-driving-detection.git
+  git clone https://github.com/Varadargit/DRIVE-SAFE-real-time-accident-rash-driving-detection.git
